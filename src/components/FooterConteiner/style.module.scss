@@ -1,0 +1,38 @@
+@import "../../style/mixin.scss";
+@import "../../style/variable.scss";
+
+footer{
+    @include displayHeader;
+ 
+    .containerFooter{
+        width: 100%;
+        background: #fc4c02;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 2rem 0;
+
+        img{
+            object-fit: cover;
+
+            @media screen and (max-width: 692px) {
+                width: 70vw;  
+            }
+        }
+    }
+
+    .direitos{
+        margin: 1.5rem 0;
+
+        p{
+            font-size: 18px;
+            text-align: center;
+            line-height: 25px;
+            color: #646869;
+
+            span{
+                text-decoration: underline;     
+            }
+        }
+    }
+}
