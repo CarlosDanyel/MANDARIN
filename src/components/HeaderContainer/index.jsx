@@ -1,7 +1,7 @@
 import React from 'react';
 
 import User from "../../assets/user2.svg";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/Logo.png";
 
 import style from "./style.module.scss";
 

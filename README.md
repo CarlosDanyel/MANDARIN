@@ -19,7 +19,6 @@ Um aspecto fundamental abordado no projeto foi a implementação de um design re
 # Agradecimento
 Gostaria de expressar minha sincera gratidão pela oportunidade concedida para realizar o teste para a vaga. Foi uma jornada desafiadora e enriquecedora, na qual pude aplicar minhas habilidades e conhecimentos para concluir o projeto com sucesso.
 
-
 # Desenvolvedor
 
 Carlos Danyel Silva Teixeira;
