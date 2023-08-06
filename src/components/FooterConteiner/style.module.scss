@@ -6,7 +6,7 @@ footer{
  
     .containerFooter{
         width: 100%;
-        background: #fc4c02;
+        background: $background-footer;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -28,10 +28,12 @@ footer{
             font-size: 18px;
             text-align: center;
             line-height: 25px;
-            color: #646869;
+            color: $color-title-footer;
 
-            span{
-                text-decoration: underline;     
+            a{
+                text-decoration: underline; 
+                cursor: pointer;
+                color: $color-title-footer;    
             }
         }
     }

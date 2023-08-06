@@ -12,7 +12,7 @@ const FooterContainer = () => {
             </div>
             <div className={style.direitos}>
                 <p>Copyright ® Mandarin. Todos os direitos reservados.<br/>
-                    Caso não deseje mais receber nossos e-mails, por favor <span>clique aqui.</span></p>
+                    Caso não deseje mais receber nossos e-mails, por favor <a href='#'>clique aqui.</a></p>
             </div>
         </footer>
     );

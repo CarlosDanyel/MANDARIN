@@ -10,3 +10,11 @@
     margin: 0 auto;
 }
 
+@mixin styleCard($gradient) {
+    position: absolute;
+    content: "";
+    bottom: 3.7%;
+    width: 60%;
+    height: 5px;
+    background: $gradient;
+}

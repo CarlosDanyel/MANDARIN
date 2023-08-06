@@ -17,7 +17,7 @@ function App() {
             <img src={ImgHome} alt="Entrevista NRF 2020" />
             <div className={style.bannerText}>
               <h1>NRF 2020: conheça os top 5 assuntos do evento.</h1>
-              <p className={style.descricao}>O maior evento sobre varejo do mundo mostrando as tendências, oportunidades e <br /> inovações para o setor.</p>
+              <p className={style.descricao}>O maior evento sobre varejo do mundo mostrando as tendências, oportunidades e inovações para o setor.</p>
               <p className={style.fonte}>Fonte: CMO ADOBE</p>
             </div>
           </div>
